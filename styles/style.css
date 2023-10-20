@@ -22,4 +22,10 @@ button > a {
   font-size: 24px;
   font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
     "Lucida Sans", Arial, sans-serif;
+  text-decoration: none;
+}
+
+.button-container {
+  border: none;
+  border-radius: 10px;
 }
